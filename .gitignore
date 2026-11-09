@@ -1,0 +1,25 @@
+
+# Dataset
+data/*.csv
+
+# Generated datasets
+processed/*.parquet
+
+# Saved models
+models/*.pkl
+models/*.npz
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store.git_old_backup/
+
+.DS_Store
+.git_old_backup/
