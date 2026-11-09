@@ -6,3 +6,4 @@ scikit-surprise
 matplotlib
 pyarrow
 jupyterlab
+seaborn
